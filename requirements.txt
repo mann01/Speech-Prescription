@@ -1,0 +1,8 @@
+thinter
+smtplib
+speech_recognition
+gtts
+xlsxwriter
+unittest
+os
+pandas
